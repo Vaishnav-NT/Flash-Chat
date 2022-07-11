@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799744307677",
+    "project_id": "flash-chat-76b5f",
+    "storage_bucket": "flash-chat-76b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799744307677:android:8367c3245755a120ec4634",
+        "android_client_info": {
+          "package_name": "com.vaishnav.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799744307677-o46irj5n6hts1jo0rk9lm535n2ndduo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBQ9pi--ERKzjtwqR7qc_-Y7qodxIFppY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799744307677-o46irj5n6hts1jo0rk9lm535n2ndduo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
